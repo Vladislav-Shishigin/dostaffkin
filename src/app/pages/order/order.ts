@@ -153,6 +153,5 @@ export class Order {
 
       this.orderId.set(response.id);
     });
-    this.orderId.set(1);
   }
 }
